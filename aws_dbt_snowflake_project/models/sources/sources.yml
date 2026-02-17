@@ -1,0 +1,10 @@
+sources:
+  - name: staging
+    database: AIRBNB  
+    schema: staging 
+    tables:
+      - name: listings
+      - name: bookings
+      - name: hosts
+
+# key: value{key: value{key: value}} like json(dict in list)
