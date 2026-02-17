@@ -90,6 +90,11 @@ Star Schema / One Big Table for Analytics
 
 To simulate a production-grade cloud data warehouse implementation using real-world Airbnb data and modern analytics engineering best practices.
 
+```markdown
+## 🏗 Architecture Diagram
+
+![Architecture](architecture.png)
+
 ## ▶️ How to Run
 
 Install dependencies:
@@ -102,10 +107,8 @@ pip install -r requirements.txt
 
 
 
-```markdown
-## 🏗 Architecture Diagram
 
-![Architecture](architecture.png)
+
 
 
 
