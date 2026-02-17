@@ -93,7 +93,8 @@ To simulate a production-grade cloud data warehouse implementation using real-wo
 
 ## 🏗 Architecture Diagram
 
-![Architecture](architecture.png)
+![Architecture](architecture.jpeg)
+
 
 
 
