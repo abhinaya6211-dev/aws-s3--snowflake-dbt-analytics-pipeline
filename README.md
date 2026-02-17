@@ -86,6 +86,10 @@ Star Schema / One Big Table for Analytics
 
 ---
 
+## 🎯 Project Goal
+
+To simulate a production-grade cloud data warehouse implementation using real-world Airbnb data and modern analytics engineering best practices.
+
 ## ▶️ How to Run
 
 Install dependencies:
@@ -93,9 +97,16 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 
-## 🎯 Project Goal
 
-To simulate a production-grade cloud data warehouse implementation using real-world Airbnb data and modern analytics engineering best practices.
+
+
+
+
+```markdown
+## 🏗 Architecture Diagram
+
+![Architecture](architecture.png)
+
 
 
 
