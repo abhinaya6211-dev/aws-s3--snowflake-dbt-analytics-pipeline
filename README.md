@@ -28,5 +28,12 @@ Analytics-Ready Data Models
 
 ---
 
-## 📂 Project Structure
+## 📊 Features
+
+- Layered data modeling (Bronze/Silver/Gold)
+- Modular SQL transformations
+- Reusable macros
+- Data quality tests
+- Clean Git-based workflow
+
 
